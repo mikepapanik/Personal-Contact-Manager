@@ -136,9 +136,9 @@ The Personal Contact Manager application offers a range of features designed to 
 
 Administrators have access to additional features that allow them to manage the overall system and its users:
 
-- **Admin Dashboard**: The admin dashboard offers a comprehensive overview of the platform’s usage, including key statistics on user activity, contact management, and event scheduling. This dashboard helps administrators monitor the health and performance of the application.
+- **Admin Dashboard**: The admin dashboard offers a comprehensive overview of the platform’s usage, including contact management, and event scheduling. This dashboard helps administrators monitor the health and performance of the application.
 
-- **User Management**: Administrators can manage all user accounts within the application. This includes viewing user profiles, updating user information, and deleting user accounts if necessary. These capabilities ensure that the platform remains secure and that user data is properly managed.
+- **User Management**: Administrators can manage all user accounts within the application. This includes viewing user profiles and deleting user accounts if necessary. These capabilities ensure that the platform remains secure and that user data is properly managed.
 
 - **Content Moderation**: Admins are responsible for monitoring and moderating the content generated within the application. This function ensures that all user-generated content adheres to the platform’s guidelines and policies, maintaining a safe and respectful environment for all users.
 
