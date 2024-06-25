@@ -1,4 +1,4 @@
-![13_Admin_Dashboarddd](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/2c2d2ab2-9b6e-4e2a-a999-e6ca7e6de509)
+
 # Personal Contact Manager
 
 ## Description
