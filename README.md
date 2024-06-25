@@ -423,156 +423,156 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Screenshots
 
 ### Database Schema
-(![a_database](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/fb12f464-3f18-4b50-8014-f219a6c92ae4)
-)
+![Database Schema](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/fb12f464-3f18-4b50-8014-f219a6c92ae4)
+
 
 ### Home Page
-![Home Page](![1_Home](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/2865b857-8552-4e7f-ab52-0cbf3cf6d516)
-)
+![Home Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/2865b857-8552-4e7f-ab52-0cbf3cf6d516)
+
 
 ### Contact Page
-![Contact Page](![2_Contact](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/6d63066f-7254-4ce5-9d03-a078623b4856)
-)
+![Contact Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/6d63066f-7254-4ce5-9d03-a078623b4856)
+
 
 ### Login Page
-![Login Page](![3_Login](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/3722f629-1c6e-4300-87e0-e4be525df4d7)
-)
+![Login Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/3722f629-1c6e-4300-87e0-e4be525df4d7)
+
 
 ### Registration Page
-![Registration Page](![4_Register](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/e3971e98-aa4e-424f-9a96-877d30134d6c)
-)
+![Registration Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/e3971e98-aa4e-424f-9a96-877d30134d6c)
+
 
 ### Registration Page with Details
-![Registration Page with Details](![5_Register_with_Deatail](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/d78aa6cc-d711-4a5c-ba0a-b6cd429c26f6)
-)
+![Registration Page with Details](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/d78aa6cc-d711-4a5c-ba0a-b6cd429c26f6)
+
 
 ### Forgot Password Page
-![Forgot Password Page](![6_Forgot_Password](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/78b8ac1f-9da4-4ccf-81d7-8455d0ef3c9f)
-)
+![Forgot Password Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/78b8ac1f-9da4-4ccf-81d7-8455d0ef3c9f)
+
 
 ### Forgot Password Page with Email
-![Forgot Password Page with Email](![7_Forgot_Password ](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/c954395c-3ef2-4244-aa06-e960657c59c1)
-)
+![Forgot Password Page with Email](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/c954395c-3ef2-4244-aa06-e960657c59c1)
+
 
 ### Answer Secret Question Page
-![Answer Secret Question Page](![8_Forgot_Password](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/1ed8de32-7309-472c-9672-17f29b6dd91e)
-)
+![Answer Secret Question Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/1ed8de32-7309-472c-9672-17f29b6dd91e)
+
 
 ### Reset Password Page
-![Reset Password Page](![9_Forgot_Password](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/9d8f0104-5503-4d36-b1bf-6b8d7b44ee37)
-)
+![Reset Password Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/9d8f0104-5503-4d36-b1bf-6b8d7b44ee37)
+
 
 ### Admin Dashboard
-![Admin Dashboard](![10_Admin_Dashboard](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/116fb8f0-d68f-409e-96ec-853f4f8630a3)
-)
+![Admin Dashboard](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/116fb8f0-d68f-409e-96ec-853f4f8630a3)
+
 
 ### Admin Dashboard with Event Form
-![Admin Dashboard with Event Form](![11_Admin_Dashboard](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/33d4c5ec-c235-45e9-b8f0-c183e4c45208)
-)
+![Admin Dashboard with Event Form](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/33d4c5ec-c235-45e9-b8f0-c183e4c45208)
+
 
 ### Admin Dashboard with Completed Event Form
-![Admin Dashboard with Completed Event Form](![12_Admin_Dashboard](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/c8785c6f-93e7-46f0-93f4-284897231c51)
-)
+![Admin Dashboard with Completed Event Form](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/c8785c6f-93e7-46f0-93f4-284897231c51)
+
 
 ### Admin Dashboard - User Management
-![Admin Dashboard - User Management](![13_Admin_Dashboarddd](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/ab3dc254-b0e9-4fc9-b364-933036cff65e)
-)
+![Admin Dashboard - User Management](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/ab3dc254-b0e9-4fc9-b364-933036cff65e)
+
 
 ### Admin Dashboard - Delete User Confirmation
-![Admin Dashboard - Delete User Confirmation](![14_Admin_Delete_User](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/4da573d3-f0c3-4f92-8a00-494f2cc115c8)
-)
+![Admin Dashboard - Delete User Confirmation](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/4da573d3-f0c3-4f92-8a00-494f2cc115c8)
+
 
 ### Admin Profile Page
-![Admin Profile Page](![15_Admin_Profile](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/d26a6234-67cb-42f7-bc6c-3a6e375a2deb)
-)
+![Admin Profile Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/d26a6234-67cb-42f7-bc6c-3a6e375a2deb)
+
 
 ### Admin Contact Page
-![Admin Contact Page](![16_Admin_Contact](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/9ac42177-9d06-47b0-bed3-77590453be4c)
-)
+![Admin Contact Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/9ac42177-9d06-47b0-bed3-77590453be4c)
+
 
 ### Logout Confirmation Page
-![Logout Confirmation Page](![17_LogOut](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/3e9b1904-7ce0-4a48-8820-6b1ede96fc1d)
-)
+![Logout Confirmation Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/3e9b1904-7ce0-4a48-8820-6b1ede96fc1d)
+
 
 ### User Dashboard
-![User Dashboard](![18_User_Dashboard](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/558f252d-8189-420b-accd-2c3019d67008)
-)
+![User Dashboard](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/558f252d-8189-420b-accd-2c3019d67008)
+
 
 ### User Dashboard with Event Form
-![User Dashboard with Event Form](![19_Event_User](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/f20a4ad5-3678-4922-8cf5-923c7b93fcc4)
-)
+![User Dashboard with Event Form](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/f20a4ad5-3678-4922-8cf5-923c7b93fcc4)
+
 
 ### View Contacts Page
-![View Contacts Page](![20_View_Contact_User](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/3500acd7-f3b7-4fcc-82ab-53c5ee224d81)
-)
+![View Contacts Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/3500acd7-f3b7-4fcc-82ab-53c5ee224d81)
+
 
 ### Search Contacts Page
-![Search Contacts Page](![21_Search_Contact](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/e51a279b-f1e2-4f87-b55e-4bea806cbe38)
-)
+![Search Contacts Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/e51a279b-f1e2-4f87-b55e-4bea806cbe38)
+
 
 ### View Contact Details Page
-![View Contact Details Page](![22_View_from_search_contact](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/4a499778-8514-40d1-90f8-877da9afaa40)
-)
+![View Contact Details Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/4a499778-8514-40d1-90f8-877da9afaa40)
+
 
 ### Delete Contact Confirmation
-![Delete Contact Confirmation](![23_Delete_Contact_User](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/db527654-23d4-4608-9981-09f60879c46c)
-)
+![Delete Contact Confirmation](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/db527654-23d4-4608-9981-09f60879c46c)
+
 
 ### Update Contact Page
-![Update Contact Page](![24_Update_Contact](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/0b5be804-87ac-41cf-8076-221793b65211)
-)
+![Update Contact Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/0b5be804-87ac-41cf-8076-221793b65211)
+
 
 ### Update Contact Page - Edited
-![Update Contact Page - Edited](![25_Update_Contact](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/2d0cca5d-d297-4bba-9b19-e595c040ffdf)
-)
+![Update Contact Page - Edited](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/2d0cca5d-d297-4bba-9b19-e595c040ffdf)
+
 
 ### Update Successful Page
-![Update Successful Page](![26_Update_Succesfull](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/5f109046-b82d-4f76-860a-7d1b4ac7e4a8)
-)
+![Update Successful Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/5f109046-b82d-4f76-860a-7d1b4ac7e4a8)
+
 
 ### Update Contact View Page
-![Update Contact View Page](![27_Update](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/f828afda-0f01-4930-8cd2-2c3a06afb9c4)
-)
+![Update Contact View Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/f828afda-0f01-4930-8cd2-2c3a06afb9c4)
+
 
 ### Add Contact Page
-![Add Contact Page](![28_Add_Contact](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/2686be7d-0acb-4398-a118-59ea4e597b1f)
-)
+![Add Contact Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/2686be7d-0acb-4398-a118-59ea4e597b1f)
+
 
 ### User Profile Page
-![User Profile Page](![29_my_profile](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/31d20913-51db-49da-af0a-abb0c945ed6b)
-)
+![User Profile Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/31d20913-51db-49da-af0a-abb0c945ed6b)
+
 
 ### Edit Profile Page
-![Edit Profile Page](![30_Edit_My_Profile](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/39386051-730b-488b-a54f-8a6f3ac4cc71)
-)
+![Edit Profile Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/39386051-730b-488b-a54f-8a6f3ac4cc71)
+
 
 ### Change Password Page
-![Change Password Page](![31_Change_Password](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/645346bf-787d-4f85-ac1a-91bce5cb79f0)
-)
+![Change Password Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/645346bf-787d-4f85-ac1a-91bce5cb79f0)
+
 
 ### User Contact Page
-![User Contact Page](![32_Contact_Login_User](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/f269bf63-ce73-4d80-9871-5a26c56912c5)
-)
+![User Contact Page](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/f269bf63-ce73-4d80-9871-5a26c56912c5)
+
 
 ### API Documentation - Swagger UI
-![API Documentation - Swagger UI](![b_swagger](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/e5608377-5c44-45f0-87e0-59c16f3ada45)
-)
+![API Documentation - Swagger UI](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/e5608377-5c44-45f0-87e0-59c16f3ada45)
+
 
 ### API Endpoints - Swagger UI
-![API Endpoints - Swagger UI](![c_swagger](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/8ac9e057-6733-455a-95d4-0a8e8ebfb6d2)
-)
+![API Endpoints - Swagger UI](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/8ac9e057-6733-455a-95d4-0a8e8ebfb6d2)
+
 
 ### Running Tests with Maven
-![Running Tests with Maven](![d_mvn_test](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/44fcfeda-4889-47b1-838c-0fb6e41ff8a5)
-)
+![Running Tests with Maven](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/44fcfeda-4889-47b1-838c-0fb6e41ff8a5)
+
 
 ### Maven Test Results
-![Maven Test Results](![e_maven_test](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/aec030a4-3b10-4244-ac9a-d70f6544bdd9)
-)
+![Maven Test Results](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/aec030a4-3b10-4244-ac9a-d70f6544bdd9)
+
 
 ### Javadoc Documentation Overview
-![Javadoc Documentation Overview](![f_tekmiriosi](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/69f25515-670e-4a74-a8ad-0c0b528f0ac9)
-)
+![Javadoc Documentation Overview](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/69f25515-670e-4a74-a8ad-0c0b528f0ac9)
+
 
 ## Detailed Functionality Description
 
