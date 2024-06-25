@@ -423,7 +423,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Screenshots
 
 ### Database Schema
-![Database Schema](![a_database](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/fb12f464-3f18-4b50-8014-f219a6c92ae4)
+(![a_database](https://github.com/mikepapanik/Personal-Contact-Manager/assets/139591052/fb12f464-3f18-4b50-8014-f219a6c92ae4)
 )
 
 ### Home Page
